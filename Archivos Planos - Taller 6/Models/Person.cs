@@ -55,3 +55,7 @@ namespace PersonManagementSystem.Models
         }
     }
 }
+
+// Datos para validaciones:
+// Username: jzuluaga - Password: P@ssw0rd123!
+// Username: mbedoya - Password: S0yS3gur02025*
